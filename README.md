@@ -1,4 +1,4 @@
-#_____GamingPoints___<br/>
+**GamingPoints <br/>
 **Version:0.0.1**<br/>
 Proyecto realizado inicialmente para llevar el cálculo del score de juego - Bolos. <br/>
 Construido:<br/>
