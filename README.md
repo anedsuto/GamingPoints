@@ -1,48 +1,37 @@
-_____GamingPoints_____
-Version:0.0.1
-Proyecto realizado inicialmente para llevar el cálculo del score de juego - Bolos. 
-Construido:
-JUnit 4.11
-Java 1.8
-Maven 3.6.3
+#_____GamingPoints___<br/>
+**Version:0.0.1**<br/>
+Proyecto realizado inicialmente para llevar el cálculo del score de juego - Bolos. <br/>
+Construido:<br/>
+JUnit 4.11<br/>
+Java 1.8<br/>
+Maven 3.6.3<br/>
 
-Pre requisitos:
-Configuración JDK1.8
---configuración de variable de entorno
-Configuración mvn para ejecución correcta de comandos
---Maven existente
---configuración de variable de entorno
+Pre requisitos:<br/>
+Configuración JDK1.8<br/>
+-configuración de variable de entorno<br/>
+Configuración mvn para ejecución correcta de comandos<br/>
+-Maven existente<br/>
+-configuración de variable de entorno<br/>
 
-Pasos para ejecución:
-1.Descargar proyecto y descomprimir
-2.Cargar en consola la ubicación del proyecto 
->>cd ...\GamingPoints
+Pasos para ejecución: <br/>
+1. Descargar proyecto y descomprimir<br/>
+2. Cargar en consola la ubicación del proyecto <br/>
+`cd ...\GamingPoints<br/>`
 
-3.Ejecutar comando para limpiar directorio target del proyecto y ejecutar la carga del artefacto generado en el directorio target, junto a su ubicación en el repositorio mvn.
->>mvn clean install
+3. Ejecutar comando para limpiar directorio target del proyecto y ejecutar la carga del artefacto generado en el directorio target, junto a su ubicación en el repositorio mvn.<br/>
+`mvn clean install`<br/>
 
-(Ubicación de archivos fuente)>>>\GamingPoints\src\main\resources
-Fuentes existentes:
-juego1.txt
-juego2.txt
-juego3.txt
-juego4.txt
+(Ubicación de archivos fuente)>>>\GamingPoints\src\main\resources<br/>
+Fuentes existentes:<br/>
+juego1.txt<br/>
+juego2.txt<br/>
+juego3.txt<br/>
+juego4.txt<br/>
 
-4.Continuar con comando que ejecuta la instrucción principal
->>\GamingPoints>java -cp target\GamingPoints-0.0.1-SNAPSHOT.jar com.gaming.start.gamingpoints.Ejecutor
-
-****-----*****-----****----Ejemplo de ejecución:
---Amplia las dimensiones de consola para mejor visualización
-
-Introduzca el nombre de la fuente de datos:juego2.txt <┘
-
-                1               2               3               4               5               6               7               8               9               10
-Marta
-PinFalls        2     4     3      0        4      2        6      3        6      2        1      0               x        8      1        0      6        4      3
-Score           6               9               15              24              32              33              52              61              67              74
+4. Continuar con comando que ejecuta la instrucción principal<br/>
+`java -cp target\GamingPoints-0.0.1-SNAPSHOT.jar com.gaming.start.gamingpoints.Ejecutor`<br/>
 
 
-                1               2               3               4               5               6               7               8               9               10
-John
-PinFalls        4     1     8      0        2      6               x               x               x        8      1        0      0        0      0        1      3
-Score           5               13              21              51              79              98              107             107             107             111
+**-Ejemplo de ejecución:**<br/>
+--Amplia las dimensiones de consola para mejor visualización<br/>
+Introduzca el nombre de la fuente de datos:juego2.txt <┘<br/>
