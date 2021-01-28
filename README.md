@@ -1,4 +1,4 @@
-**GamingPoints <br/>
+**GamingPoints** <br/>
 **Version:0.0.1**<br/>
 Proyecto realizado inicialmente para llevar el cálculo del score de juego - Bolos. <br/>
 Construido:<br/>
@@ -16,7 +16,7 @@ Configuración mvn para ejecución correcta de comandos<br/>
 Pasos para ejecución: <br/>
 1. Descargar proyecto y descomprimir<br/>
 2. Cargar en consola la ubicación del proyecto <br/>
-`cd ...\GamingPoints<br/>`
+`cd ...\GamingPoints`<br/>
 
 3. Ejecutar comando para limpiar directorio target del proyecto y ejecutar la carga del artefacto generado en el directorio target, junto a su ubicación en el repositorio mvn.<br/>
 `mvn clean install`<br/>
@@ -33,5 +33,5 @@ juego4.txt<br/>
 
 
 **-Ejemplo de ejecución:**<br/>
---Amplia las dimensiones de consola para mejor visualización<br/>
+<sub><sup>Amplia las dimensiones de consola para mejor visualización</sup></sub> <br/>
 Introduzca el nombre de la fuente de datos:juego2.txt <┘<br/>
