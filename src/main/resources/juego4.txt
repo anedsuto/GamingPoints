@@ -1,0 +1,86 @@
+Marta 2
+Marta 4
+
+
+
+
+
+
+
+John 4
+John 1
+
+Marta 3
+Marta 0
+
+John 8
+John 0
+
+Marta 4
+Marta 2
+
+John 2
+John 6
+
+Marta 6
+Marta 3
+
+John 10
+
+Marta 6
+Marta 2
+
+John 10
+
+Marta 1
+Marta 0
+
+John 10
+
+Marta 10
+
+John 8
+John 1
+
+Marta 8
+Marta 1
+
+John 0
+John 0
+
+Marta 0
+Marta 6
+
+John 0
+John 0
+
+Marta 4
+Marta 3
+
+John 1
+John 3
+
+
+
+Marta 8
+Marta 1
+
+John 0
+John 0
+
+Marta 0
+Marta 6
+
+John 0
+John 0
+
+Marta 4
+Marta 3
+
+John 1
+John 3
+
+
+
+
+
